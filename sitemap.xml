@@ -2,8 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://frontop.github.io/contact/</loc>
+  </url>
+  
+  <url>
     <loc>https://frontop.github.io/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://frontop.github.io/work/</loc>
   </url>
   
 </urlset>
