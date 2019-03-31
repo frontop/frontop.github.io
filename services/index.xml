@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Frontop Engineering Limited</title>
-    <link>https://frontop.github.io/</link>
-    <description>Recent content on Frontop Engineering Limited</description>
+    <title>Services on Frontop Engineering Limited</title>
+    <link>https://frontop.github.io/services/</link>
+    <description>Recent content in Services on Frontop Engineering Limited</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 Mar 2019 12:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://frontop.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://frontop.github.io/services/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -39,30 +39,12 @@
     </item>
     
     <item>
-      <title>Highway 410</title>
-      <link>https://frontop.github.io/portfolio/highway-410/</link>
-      <pubDate>Fri, 08 Mar 2019 12:00:00 -0400</pubDate>
-      
-      <guid>https://frontop.github.io/portfolio/highway-410/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Hydrogeological Engineering</title>
       <link>https://frontop.github.io/services/hydrogeological-engineering/</link>
       <pubDate>Fri, 08 Mar 2019 12:00:00 -0400</pubDate>
       
       <guid>https://frontop.github.io/services/hydrogeological-engineering/</guid>
       <description>Percolation Testing Design and Construction of Monitoring Networks and Monitoring Wells PTTW (Permit To Take Water) Application Hydrogeological Study and Assessment for Residential Subdivision and Environmental Projects Water Sample Chemical Testing Result Analysis and Reporting Underground Water Investigation and Mapping Development of Groundwater Supplies</description>
-    </item>
-    
-    <item>
-      <title>Lawrence West Station</title>
-      <link>https://frontop.github.io/portfolio/lawrence-west/</link>
-      <pubDate>Fri, 08 Mar 2019 12:00:00 -0400</pubDate>
-      
-      <guid>https://frontop.github.io/portfolio/lawrence-west/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -83,24 +65,6 @@
       <description>Our fully self-developed noise and vibration monitoring system is a robust, cost efficient solution for outdoor and indoor noise and vibration monitoring. Features include:
 Viewing data online from anywhere Listening to recorded events Getting notified by email or SMS when thresholds are reached Variable data recordings and transmission intervals Use wireless technology (Wifi, GPRS or 3G/4G)
 Noise and vibration are two of the main concerns affecting workers health and public safety during construction.</description>
-    </item>
-    
-    <item>
-      <title>Ossington Station</title>
-      <link>https://frontop.github.io/portfolio/ossington-station/</link>
-      <pubDate>Fri, 08 Mar 2019 12:00:00 -0400</pubDate>
-      
-      <guid>https://frontop.github.io/portfolio/ossington-station/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>South Blair</title>
-      <link>https://frontop.github.io/portfolio/south-blair/</link>
-      <pubDate>Fri, 08 Mar 2019 12:00:00 -0400</pubDate>
-      
-      <guid>https://frontop.github.io/portfolio/south-blair/</guid>
-      <description></description>
     </item>
     
   </channel>

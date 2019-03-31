@@ -1,8 +1,97 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://frontop.github.io/services/engineering-design/</loc>
+    <lastmod>2019-03-08T12:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://frontop.github.io/services/environmental-engineering/</loc>
+    <lastmod>2019-03-08T12:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://frontop.github.io/services/geotechnical-monitoring/</loc>
+    <lastmod>2019-03-08T12:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://frontop.github.io/portfolio/highway-410/</loc>
+    <lastmod>2019-03-08T12:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://frontop.github.io/services/hydrogeological-engineering/</loc>
+    <lastmod>2019-03-08T12:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://frontop.github.io/portfolio/lawrence-west/</loc>
+    <lastmod>2019-03-08T12:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://frontop.github.io/services/material-testing/</loc>
+    <lastmod>2019-03-08T12:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://frontop.github.io/services/noise-and-vibration-monitoring/</loc>
+    <lastmod>2019-03-08T12:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://frontop.github.io/portfolio/ossington-station/</loc>
+    <lastmod>2019-03-08T12:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://frontop.github.io/portfolio/south-blair/</loc>
+    <lastmod>2019-03-08T12:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://frontop.github.io/contact/</loc>
+    <lastmod>2018-07-14T17:09:20+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://frontop.github.io/monitoring/</loc>
+    <lastmod>2018-07-14T16:19:08+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://frontop.github.io/about/</loc>
+    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://frontop.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
   
   <url>
     <loc>https://frontop.github.io/</loc>
+    <lastmod>2019-03-08T12:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://frontop.github.io/portfolio/</loc>
+    <lastmod>2019-03-08T12:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://frontop.github.io/services/</loc>
+    <lastmod>2019-03-08T12:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://frontop.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
